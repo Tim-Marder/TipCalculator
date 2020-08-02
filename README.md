@@ -1,16 +1,16 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Tip*
 
-**Name of your app** is a tip calculator application for iOS.
+**Tip** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Tim Marder**
 
-Time spent: **X** hours spent in total
+Time spent: **1** hour spent in total
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
 * [ ] Settings page to change the default tip percentage.
@@ -21,7 +21,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] Added a cashback calculation functionality to give credit card users an idea of how much they will be getting back.
 
 ## Video Walkthrough 
 
@@ -33,11 +33,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+My version of XCode did not have the option to build the application for an iPhone 8, so I used an iPhone 8 Plus. Also, I had issues with committing to my GitHub repository from XCode, so I pushed the source code files directly to GitHub from the terminal.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2020 Tim Marder
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
